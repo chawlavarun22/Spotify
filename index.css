@@ -1,0 +1,52 @@
+.brand img{
+    width: 70px !important;
+    height:50px !important;
+}
+.text-centre{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.fixed-bottom{
+    color: white !important;
+}
+.icons{
+    font-size: larger !important;
+}
+body{
+    background-color: black !important;
+
+  
+    
+}
+.song-list{
+    margin-top: 110px !important;
+    margin-bottom: 180px !important;
+}
+.song-list h1{
+    color: rgb(172, 172, 130) !important;
+}
+.songInfo{
+   position: absolute !important;
+   left: 10vw !important;
+}
+.card span{
+    text-align: center !important;
+}
+.card{
+  background-color: black !important;
+  color: azure !important;
+}
+.card i{
+  text-align: center !important;
+  margin-top: 10px !important;
+}
+.carouselslide{
+  margin-top: 50px !important;
+
+}
+
+
+
+                  
+                    
+             
